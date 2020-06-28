@@ -3,15 +3,15 @@ Using Friends of Trackings *'Getting Started with R + StatsBomb | Analyzing Squa
 
 After transforming and cleaning the StatsBomb data, I wanted to see a teams result upon rotation in the Premier League 2003/04 season. All team apart from Arsenal didn't look very exciting, therefore I have a chart that shows every team in the league that rotated thoughout the season according to the data. I had some trouble with getting all the teams in because some had not rotated. To get around this I used *if(w==team) next* to step over any teams that had no rotation so they didn't take up blank space.
 
-![SquadRotations](All EPL Team Squad Rotations.png)
+![SquadRotations](AllEPLTeamSquadRotations.JPG)
 
 Sticking with the Premier League 2003/04 season, we can use cluster passes to help understand the passes tendencies and lanes for each team. The field below shows Liverpool most common clusters using 75 clusters, again, according to the data.
 
-![MostCommonPasses](Liverpool Most Common Passes.png)
+![MostCommonPasses](LiverpoolMostCommonPasses.JPG)
 
 Finally, I identified clusters that Liverpool do more than 1.5 standard deviation than the league average. Unfortunately (even a lower value), the data suggests Liverpool did not have more than 1.5 standard deviation than the league average.
 
-![StandardDeviation1.5](Liverpool Standard Deviation_1.5.png)
+![StandardDeviation1.5](LiverpoolStandardDeviation_1.5.JPG)
 
 # What I Learnt
 

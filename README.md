@@ -1,6 +1,6 @@
 # StatsBomb | Squad Rotation and Clustering Passes
 
-StatsBomb data found **<a href="https://github.com/statsbomb/open-data">HERE</a>**
+StatsBomb data can be found **<a href="https://github.com/statsbomb/open-data">HERE</a>**
 
 Using Friends of Trackings *'Getting Started with R + StatsBomb | Analyzing Squad Rotation & Clustering Passes'* as a guide, I have been able to create graphics for results with squad rotation and pass clusters.
 

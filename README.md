@@ -1,4 +1,7 @@
 # StatsBomb | Squad Rotation and Clustering Passes
+
+StatsBomb data found **<a href="https://github.com/statsbomb/open-data">HERE</a>**
+
 Using Friends of Trackings *'Getting Started with R + StatsBomb | Analyzing Squad Rotation & Clustering Passes'* as a guide, I have been able to create graphics for results with squad rotation and pass clusters.
 
 After transforming and cleaning the StatsBomb data, I wanted to see a teams result upon rotation in the Premier League 2003/04 season. All team apart from Arsenal didn't look very exciting, therefore I have a chart that shows every team in the league that rotated thoughout the season according to the data. I had some trouble with getting all the teams in because some had not rotated. To get around this I used *if(w==team) next* to step over any teams that had no rotation so they didn't take up blank space.
